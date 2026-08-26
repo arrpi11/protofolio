@@ -1,0 +1,10 @@
+.logo{
+    font-family:'Geist Mono', monospace;
+    font-size: x-large;
+}
+
+.navigasi{
+    display: inline-block;
+    text-decoration: none;
+    color: aquamarine;
+}
