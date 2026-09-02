@@ -1,0 +1,25 @@
+#badan{
+    background-color: #d5f4c3;
+}
+
+.navigasi{
+background-color:#1E4620;
+}
+
+.logo{
+    color: #A9DFBF;
+    font-family:system-ui;
+    float: left;
+font-size: x-large;
+}
+.list ul li a {
+text-decoration: none;
+color: #fcfffd;
+}
+.list ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 18px;
+    margin-right: 18px;
+    float: right;
+}
