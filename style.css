@@ -1,16 +1,22 @@
 #badan{
     background-color: #d5f4c3;
+    margin: 0px;
 }
 
-.navigasi{
+#navigasi{
 background-color:#1E4620;
 }
 
 .logo{
-    color: #A9DFBF;
     font-family:system-ui;
     float: left;
-font-size: x-large;
+    font-size: x-large;
+    margin-left: 15px;
+}
+
+.logo strong a{
+    text-decoration: none;
+    color:#95c6a5;
 }
 .list ul li a {
 text-decoration: none;
@@ -19,7 +25,11 @@ color: #fcfffd;
 .list ul li{
     display: inline-block;
     list-style: none;
-    margin-left: 18px;
-    margin-right: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
     float: right;
+    padding: 10px;
+}
+.list ul li a:hover {
+background-color:#538b56;
 }
